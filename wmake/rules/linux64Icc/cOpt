@@ -1,2 +1,3 @@
 cDBUG       =
-cOPT        = -O3
+#cOPT        = -O3
+cOPT        = -no-prec-div -O3 -xHost -fp-model precise
