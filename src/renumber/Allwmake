@@ -15,6 +15,6 @@ else
     echo "    skipping zoltanRenumber"
 fi
 
-wmake $targetType renumberMethods
+#wmake $targetType renumberMethods
 
 #------------------------------------------------------------------------------
