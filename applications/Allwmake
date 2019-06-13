@@ -21,6 +21,6 @@ wmakeCheckPwd "$WM_PROJECT_DIR/applications" || {
 wmake -all $targetType solvers
 
 # Comment for building
-#wmake -all $targetType utilities
+wmake -all $targetType utilities
 
 #------------------------------------------------------------------------------
