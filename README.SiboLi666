@@ -1,0 +1,15 @@
+The project is for building OpenFOAM-5.x on Theta supercomputer in Argonne National Laboratory.
+
+Creator: Sibo Li
+
+The modified or added files can be found:
+
+/Allwmake
+/etc/config.csh/settings
+/etc/config.sh/settings
+/etc/bashrc
+/src/Pstream/Allwmake
+/src/parallel/decompose/Allwmake
+/wmake/rules/General/general
+/wmake/rules/linux64ThetaIcc
+/wmake/src.Makefile
